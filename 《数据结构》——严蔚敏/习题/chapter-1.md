@@ -43,7 +43,7 @@
   即相同的逻辑结构，可以对应不同的存储结构。<br>
 
 # 3-简述逻辑结构的四种基本关系，并画出它们的关系图。<br>
-![](https://github.com/Gao-June/Data_Structure/blob/master/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E2%80%94%E2%80%94%E4%B8%A5%E8%94%9A%E6%95%8F/%E4%B9%A0%E9%A2%98/aa123.png)
+![](https://github.com/Gao-June/Data_Structure/blob/master/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E2%80%94%E2%80%94%E4%B8%A5%E8%94%9A%E6%95%8F/%E4%B9%A0%E9%A2%98/%E6%8F%92%E5%9B%BE/%E5%9B%9B%E7%B1%BB%E5%9F%BA%E6%9C%AC%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E5%85%B3%E7%B3%BB%E5%9B%BE.png)
 
 # 4-存储结构由哪两种基本的存储方法实现？<br>
 * 顺序存储结构<br>
