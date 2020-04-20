@@ -45,7 +45,7 @@
   即相同的逻辑结构，可以对应不同的存储结构。<br>
 
 # 3-简述逻辑结构的四种基本关系，并画出它们的关系图。<br>
-![](C:\Users\asus\Desktop\-\是高先生啊\数据结构\《数据结构》-C语言版\一些图片\逻辑结构的4种基本关系.png)
+![](https://github.com/Gao-June/Data_Structure/blob/master/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E2%80%94%E2%80%94%E4%B8%A5%E8%94%9A%E6%95%8F/%E4%B9%A0%E9%A2%98/aa123.png)
 
 
 
